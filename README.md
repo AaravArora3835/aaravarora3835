@@ -197,12 +197,12 @@ Focus on real vulnerabilities, actual commands, working exploits in controlled e
 ## GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AaravArora3835&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=C9D1D9&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AaravArora3835&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=C9D1D9&count_private=true&include_all_commits=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AaravArora3835&theme=radical&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=C9D1D9" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AaravArora3835&theme=radical" width="100%"/>
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaravArora3835&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=C9D1D9&langs_count=8" />
 </p>
 
 ---
