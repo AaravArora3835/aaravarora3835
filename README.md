@@ -1,213 +1,258 @@
 <!-- Animated Cybersecurity Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=CYBERSECURITY%20PORTFOLIO&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Vulnerability%20Research%20•%20Secure%20Development%20•%20Security%20Engineering&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=AARAV%20ARORA&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=CYBERSECURITY%20PORTFOLIO%20•%20VULNERABILITY%20RESEARCH%20•%20SECURE%20DEVELOPMENT&descAlignY=51&descAlign=50&descSize=16" width="100%"/>
 </p>
 
-<h2 align="center">Cybersecurity Student | Vulnerability Research & Secure Development</h2>
-
+<!-- Hacker Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=High+School+Sophomore+%7C+Cybersecurity+Track;Building+CVE+Research+Portfolio;Google+Cybersecurity+Certificate+In+Progress;Linux+•+SQL+•+Python+•+Bash+•+Networking;Vulnerability+Analysis+%26+Secure+Development;Preparing+for+Security+Internships+2026">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=High+School+Sophomore+%7C+Cybersecurity+Track;Google+Cybersecurity+Certificate+In+Progress;CVE+Research+•+Linux+•+SQL+•+Python+•+Bash;Vulnerability+Analysis+%26+Secure+Development;Preparing+for+Security+Internships+2026">
 </p>
 
+<!-- Matrix Rain GIF -->
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/VulnForge-CVE_Lab-00FF00?style=for-the-badge&logo=security&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/SecureScholar-Education_Platform-00FF00?style=for-the-badge&logo=academia&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Certifications-In_Progress-FFD700?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWhtZWEzMWJ1OWJjeXVmcDJqMmdubnV4bGE3YTZ5MWpnbDdpajd0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="100%"/>
+</p>
+
+<!-- Project Badges -->
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/🛡️_VulnForge-CVE_Research_Lab-00FF00?style=for-the-badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/🔐_SecureScholar-Education_Platform-00FF00?style=for-the-badge"/></a>
+  <img src="https://img.shields.io/badge/📜_Certifications-In_Progress-FFD700?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🎯_Target-Aug_2026_Internships-FF6B6B?style=for-the-badge"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 $ whoami
 
-High school sophomore on a structured cybersecurity roadmap (Oct 2025 → Aug 2026), building practical skills through hands-on labs and real-world vulnerability research. Focused on developing a portfolio that demonstrates technical competency and professional documentation standards.
+```bash
+┌──(aarav㉿kali)-[~/portfolio]
+└─$ cat profile.txt
 
-**Current Focus:**
-- 🎓 **Google Cybersecurity Professional Certificate** (In Progress)
-- 🔐 **ISC² Certified in Cybersecurity (CC)** (Planned: Jan 2026)
-- ✅ **CompTIA Security+** (Planned: May 2026)
-- 🛠️ Active home lab with Kali Linux, VirtualBox, and security tooling
+ROLE: Cybersecurity Student (High School Sophomore)
+FOCUS: Vulnerability Research | Secure Development | Linux Security
+STATUS: Building evidence-based portfolio (Oct 2025 → Aug 2026)
+CERTIFICATIONS: Google Cyber (75% done) → ISC² CC → Security+
+LAB_ENV: Kali Linux | VirtualBox | Home Security Lab
+```
 
-**Professional Development:**
-- Building evidence-based GitHub portfolio with documented labs and projects
-- Practicing Linux system administration, SQL security, and network analysis
-- Researching CVE vulnerabilities and developing reproduction cases
-- Contributing to cybersecurity education through SecureScholar platform
+<div align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60%"/>
+</div>
+
+**Current Mission:**
+- 🎓 Completing **Google Cybersecurity Professional Certificate** (Dec 2025)
+- 🔬 Building **VulnForge** - CVE reproduction laboratory
+- 📚 Documenting every lab, every command, every lesson learned
+- 🚀 Targeting security internships by August 2026
 
 ---
 
 ## 🎯 Featured Projects
 
-### 🛡️ [VulnForge](#) — CVE Reproduction Laboratory
+<table>
+<tr>
+<td width="50%">
 
-A structured environment for analyzing and reproducing real-world Common Vulnerabilities and Exposures (CVEs). Demonstrates vulnerability research methodology and security analysis skills.
+### 🛡️ VulnForge
+**CVE Reproduction Lab**
 
-**Technical Highlights:**
-- Organized case structure with CVSS scoring and attack chain documentation
-- SQL Injection (SQLi), Cross-Site Scripting (XSS), authentication bypass research
-- Python automation for case management and security testing
-- Detailed mitigations and defender playbooks for each vulnerability
+Structured environment for analyzing real-world vulnerabilities. SQL Injection, XSS, authentication bypasses - documented with CVSS scoring and mitigations.
 
-**Skills Demonstrated:** Vulnerability analysis, ethical hacking methodology, Python scripting, technical documentation
+**Tech:** Python automation, Kali Linux, DVWA
+**Skills:** Vulnerability analysis, ethical hacking, technical documentation
+
+</td>
+<td width="50%">
+
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%"/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
+
+</td>
+<td width="50%">
+
+### 🔐 SecureScholar
+**Cybersecurity Education Platform**
+
+Interactive web platform teaching password security, phishing awareness, and digital hygiene. Built with React for students and educators.
+
+**Tech:** React, interactive simulations, NIST guidelines
+**Skills:** Web development, secure coding, UX design
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📚 Portfolio Hub
+**Documented Learning Journey**
+
+Every lab, every note, every certification step - organized for recruiters. Linux permissions, SQL queries, network analysis with tcpdump, weekly reflections.
+
+**Tech:** Markdown, Git, structured documentation
+**Skills:** Technical writing, project management
+
+</td>
+<td width="50%">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Terminal Skills
 
 ```bash
-# Project Structure
-VulnForge/
-├── cases/
-│   ├── CVE-001-sqli/          # SQL Injection case study
-│   ├── CVE-002-xss/           # XSS vulnerability analysis
-│   └── CVE-003-auth-bypass/   # Authentication bypass research
-├── tools/
-│   └── new_case.py            # Automated case scaffolding
-└── README.md                   # Full methodology documentation
+┌──(aarav㉿kali)-[~/skills]
+└─$ ls -la
+
+drwxr-xr-x  operating_systems/
+    ├── Linux (Ubuntu, Kali, command-line mastery)
+    ├── Bash scripting & automation
+    └── VirtualBox lab environments
+
+drwxr-xr-x  security_tools/
+    ├── CVE analysis & vulnerability research
+    ├── SQL injection testing & mitigation
+    ├── Network analysis (tcpdump, Wireshark)
+    └── Log analysis & incident investigation
+
+drwxr-xr-x  development/
+    ├── Python (automation, security scripts)
+    ├── SQL (queries, injection prevention)
+    ├── React (web security applications)
+    └── Git/GitHub (version control, portfolio)
+```
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,python,bash,sql,git,react,vscode&theme=dark" />
+</p>
+
+---
+
+## 📜 Certification Roadmap
+
+<div align="center">
+
+| Certification | Progress | Target | Evidence |
+|--------------|----------|--------|----------|
+| 🟢 **Google Cybersecurity Professional** | ![75%](https://progress-bar.dev/75/?title=progress&width=200&color=00ff00) | Dec 2025 | [Portfolio Hub](#) |
+| 🟡 **ISC² Certified in Cybersecurity (CC)** | ![0%](https://progress-bar.dev/0/?title=planned&width=200&color=yellow) | Jan 2026 | Prep in progress |
+| 🔵 **CompTIA Security+** | ![0%](https://progress-bar.dev/0/?title=planned&width=200&color=blue) | May 2026 | VulnForge integration |
+
+</div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="60%"/>
+</p>
+
+---
+
+## 📊 Activity Log
+
+```bash
+┌──(aarav㉿kali)-[~/portfolio]
+└─$ tail -f achievements.log
+
+[2025-12-03 14:23:45] VulnForge: Added source_url tracking field
+[2025-12-03 10:15:32] Google Cert: Course 4 Module 1 complete - Linux basics
+[2025-12-02 18:45:19] SecureScholar: Enhanced password strength UI
+[2025-12-01 16:30:08] Portfolio: Week 04 labs organized and documented
+[2025-11-30 20:12:54] VulnForge: Initial CVE case structure deployed
+[2025-11-28 15:40:27] Lab: tcpdump packet capture analysis complete
+[2025-11-27 19:25:13] Security+: Started study materials review
+[2025-11-26 21:05:46] Linux Lab: File permissions and ownership mastery
+
+└─$ echo "Building security skills one commit at a time..."
+Building security skills one commit at a time...
 ```
 
 ---
 
-### 🔐 [SecureScholar](#) — Cybersecurity Education Platform
+## 🎓 Learning Philosophy
 
-An interactive web platform teaching cybersecurity fundamentals to students and educators. Built with React, focusing on password security, phishing awareness, and digital hygiene.
+<table>
+<tr>
+<td width="50%">
 
-**Technical Highlights:**
-- React-based frontend with interactive learning modules
-- Real-time password strength analysis with NIST guidelines
-- Phishing email simulation and identification training
-- Progress tracking and gamified learning elements
+**Evidence-Based Development**
+- Every skill backed by documented labs
+- Screenshots, commands, detailed notes
+- GitHub portfolio = professional proof
 
-**Skills Demonstrated:** Web development, secure coding practices, educational content design, user experience
+**Structured Consistency**
+- 5 hours/week during school term
+- Weekly sprints with clear deliverables
+- Reflect, document, improve, repeat
 
-```bash
-# Core Modules
-SecureScholar/
-├── password-security/    # NIST-compliant password education
-├── phishing-awareness/   # Interactive phishing simulations
-├── digital-hygiene/      # Privacy and security best practices
-└── assessment-system/    # Progress tracking and quizzes
-```
+</td>
+<td width="50%">
 
----
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100%"/>
 
-### 📚 [Cybersecurity Portfolio Hub](#)
-
-Comprehensive documentation of my cybersecurity learning journey, including weekly labs, course notes, and certification progress. Organized for easy navigation by recruiters and admissions officers.
-
-**Contents:**
-- **Lab Documentation:** Linux permissions, SQL queries, network analysis with tcpdump
-- **Course Notes:** Google Cybersecurity Certificate modules with practical applications
-- **Weekly Reflections:** Progress tracking and learning insights
-- **Certification Roadmap:** Structured timeline from foundational to advanced certifications
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Technical Skills
+## 🔗 Connect
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <a href="https://github.com/AaravArora3835"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:aaravarora3835@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Status-Open_to_Mentorship-00FF00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Available-Aug_2026-FFD700?style=for-the-badge"/>
 </p>
 
-**Operating Systems & Environments:**
-- Linux system administration (Ubuntu, Kali Linux)
-- Command-line proficiency (Bash scripting, file permissions, process management)
-- Virtual machine management (VirtualBox, isolated lab environments)
+<div align="center">
+  
+**Seeking:** Security mentorship • Student collaboration • Internship opportunities (2026)
 
-**Security Tools & Techniques:**
-- Vulnerability research and CVE analysis
-- SQL injection testing and mitigation
-- Network traffic analysis (tcpdump, Wireshark fundamentals)
-- Log analysis and security incident investigation
+**Interests:** CVE research • Linux security • Open-source security tools • Cybersecurity education
 
-**Development:**
-- Python (automation, security scripts, data processing)
-- SQL (queries, database security, injection prevention)
-- Web technologies (React, HTML/CSS for SecureScholar)
-- Version control (Git, GitHub portfolio management)
+</div>
 
 ---
 
-## 📊 Certification Roadmap
-
-| Certification | Status | Target Date | Evidence |
-|--------------|--------|-------------|----------|
-| **Google Cybersecurity Professional** | 🟡 In Progress (75% complete) | Dec 2025 | [Portfolio Hub](#) |
-| **ISC² Certified in Cybersecurity (CC)** | 📅 Planned | Jan 2026 | Prep materials in development |
-| **CompTIA Security+** | 📅 Planned | May 2026 | Integrated with VulnForge research |
-
----
-
-## 📈 Recent Activity
-
-```bash
-$ tail -f /var/log/portfolio/achievements.log
-
-[2025-12-03] VulnForge: Added source_url field for CVE tracking
-[2025-12-03] Google Cert: Completed Course 4 Module 1 - Linux basics
-[2025-12-02] SecureScholar: Improved password strength UI feedback
-[2025-12-01] Portfolio: Organized Week 04 labs and reflections
-[2025-11-30] VulnForge: Initial case structure and tooling complete
-[2025-11-28] Lab: tcpdump packet capture analysis documented
-```
-
----
-
-## 🎓 Education & Learning Approach
-
-**Current:** High School Sophomore (Class of 2027)
-
-**Learning Philosophy:**
-- **Evidence-based:** Every skill backed by documented labs and projects
-- **Practical focus:** Hands-on work over passive theory consumption
-- **Professional standards:** GitHub portfolio mimics industry practices
-- **Consistent progress:** Structured 5-hour weekly commitment during school term
-
-**Weekly Workflow:**
-1. Complete certification course modules with detailed notes
-2. Execute hands-on labs in home environment
-3. Document findings in portfolio with screenshots
-4. Apply learning to VulnForge/SecureScholar projects
-5. Weekly reflection on progress and challenges
-
----
-
-## 🔗 Connect & Collaborate
-
-I'm building my portfolio with feedback from the cybersecurity community and preparing for internship opportunities by August 2026. Always interested in connecting with:
-- Security professionals for mentorship and guidance
-- Students on similar certification paths for collaboration
-- Educators interested in SecureScholar development
-- Open-source security projects welcoming contributors
+## 📈 GitHub Metrics
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-Follow-00FF00?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-00FF00?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=merko&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=merko&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AaravArora3835&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=matrix&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AaravArora3835&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=AaravArora3835&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AaravArora3835&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff" width="100%"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/4kLrWv1lH24AAAAd/matrix-code.gif" width="70%" alt="matrix">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 </p>
 
 <p align="center">
-  <code>💚 Building security skills one commit at a time | Open to mentorship and collaboration opportunities</code>
+  <img src="https://komarev.com/ghpvc/?username=AaravArora3835&color=00ff00&style=for-the-badge&label=PROFILE+VIEWS"/>
+</p>
+
+<p align="center">
+  <code>💚 Building security skills one commit at a time | Open to mentorship & collaboration</code>
 </p>
 
 <p align="center">
