@@ -142,7 +142,24 @@ Complete documentation of certification journey. Every lab, command, and lesson 
 </td>
 <td width="50%">
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%"/>
+```ascii
+    ╔═══════════════════════════╗
+    ║   CERTIFICATION ROADMAP   ║
+    ╠═══════════════════════════╣
+    ║                           ║
+    ║   2025  ▶ Google Cyber    ║
+    ║   ━━━━━━━━━━━━━━━ 75%     ║
+    ║                           ║
+    ║   2026  ▶ ISC² CC         ║
+    ║   ━━━━━━━ 0%              ║
+    ║                           ║
+    ║   2026  ▶ Security+       ║
+    ║   ━━━━━━━━━ 0%            ║
+    ║                           ║
+    ║   🎯 GOAL: Aug 2026       ║
+    ║   Internship Ready        ║
+    ╚═══════════════════════════╝
+```
 
 </td>
 </tr>
@@ -154,7 +171,27 @@ Complete documentation of certification journey. Every lab, command, and lesson 
 <tr>
 <td width="50%">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+```ascii
+┌─────────────────────────────┐
+│  WEEKLY LEARNING CYCLE      │
+├─────────────────────────────┤
+│                             │
+│  MON-TUE  → Course Modules  │
+│             📚 Theory       │
+│                             │
+│  WED-THU  → Hands-On Labs   │
+│             ⚡ Practice     │
+│                             │
+│  FRI-SAT  → Project Work    │
+│             🛠️  Build       │
+│                             │
+│  SUNDAY   → Documentation   │
+│             📝 Reflect      │
+│                             │
+│  REPEAT   → Consistency     │
+│             🔄 Improve      │
+└─────────────────────────────┘
+```
 
 </td>
 <td width="50%">
