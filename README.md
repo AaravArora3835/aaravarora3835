@@ -154,7 +154,7 @@ Complete documentation of certification journey. Every lab, command, and lesson 
 <tr>
 <td width="50%">
 
-<img src="https://media.tenor.com/4kLrWv1lH24AAAAd/matrix-code.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%"/>
 
 </td>
 <td width="50%">
