@@ -1,6 +1,6 @@
-<!-- MATRIX BANNER -->
+<!-- Reliable MATRIX banner -->
 <p align="center">
-  <img src="https://i.imgur.com/v9bUq8j.gif" width="100%" alt="matrix rain">
+  <img src="https://media.tenor.com/4kLrWv1lH24AAAAd/matrix-code.gif" width="100%" alt="matrix">
 </p>
 
 <!-- ASCII NAME -->
@@ -13,74 +13,74 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   
 </pre>
 
-<h3 align="center">🟢 Aarav — Cybersecurity Student • Linux • Networking • CVEs</h3>
+<h3 align="center">🟢 Aarav — Cybersecurity Student | Linux | CVEs | Secure Coding</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=650&lines=Booting+profile...;Loading+security+modules...;Initializing+Linux+environment...;Fetching+CVE+cases...;Executing+student_security_engineer.sh">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00ff00&center=true&vCenter=true&width=650&lines=Booting+profile...;Loading+security+modules...;Initializing+Linux+console...;Building+VulnForge...;Developing+SecureScholar...">
 </p>
 
 ---
 
-## 🖥️ /whoami
+## 🖥️ /whoami — Terminal Summary
 
 ```bash
-> user: aarav
-> role: cybersecurity_student
-> os: linux-first
-> interests: "cve_research | linux | networking | sql | education_security"
-> status: learning_every_day
+user: aarav
+role: cybersecurity_student
+os: linux-first
+focus: "cve_research | linux | sql | networking"
+status: learning_and_building
 ````
 
-* 🛡️ Creator of **VulnForge** — CVE reproduction + security tooling
-* 🔐 Developer of **SecureScholar** — cyber safety education platform
-* 🎓 Working through the **Google Cybersecurity Certificate**
-* 📡 Practicing Linux, VM networking, permissions, logging, SQL, and incident-style thinking
-* 🎯 Roadmap: Google Cert → ISC² CC → Security+ → TryHackMe grind
+* 🛡️ **VulnForge** → CVE reproduction + security tooling
+* 🔐 **SecureScholar** → cyber safety education platform
+* 🎓 Google Cybersecurity Professional Certificate
+* 📡 Practicing Linux, file permissions, networking, logs, SQL, scripting
+* 🎯 Path: Google Cert → ISC² CC → Security+ → More labs & projects
 
 ---
 
-## ⚙️ Skills
+## ⚙️ Skills & Tools (Improved readability)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=00FF00&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-0b0b0b?logo=kalilinux&logoColor=00FF00&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Ubuntu-111111?logo=ubuntu&logoColor=00FF00&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Bash_Scripting-111111?logo=gnubash&logoColor=00FF00&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-101010?logo=python&logoColor=00FF00&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQL-101010?logo=postgresql&logoColor=00FF00&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Networking-101010?logo=cisco&logoColor=00FF00&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/VirtualBox-101010?logo=virtualbox&logoColor=00FF00&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=00FF00&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-000?logo=kalilinux&logoColor=00FF00&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Ubuntu-000?logo=ubuntu&logoColor=00FF00&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Bash_Scripting-000?logo=gnubash&logoColor=00FF00&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Python-000?logo=python&logoColor=00FF00&style=flat-square"/>
+  <img src="https://img.shields.io/badge/SQL-000?logo=postgresql&logoColor=00FF00&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Networking-000?logo=cisco&logoColor=00FF00&style=flat-square"/>
+  <img src="https://img.shields.io/badge/VirtualBox-000?logo=virtualbox&logoColor=00FF00&style=flat-square"/>
 </p>
 
 ---
 
-## 📂 Projects
+## 📁 Featured Projects (clean layout)
 
-### 🛡️ **VulnForge — CVE Reproduction Lab**
+### 🛡️ VulnForge — CVE Reproduction Lab
 
 ```bash
-> initializing VulnForge...
-> mode: cve_reproduction_environment
-> features: "cases | scoring | attack_chains | research_tools"
+project: VulnForge
+mode: cve_research_environment
+features: "cases | severity_scoring | attack_chains | tooling"
 ```
 
 🔗 [https://github.com/AaravArora3835/VulnForge](https://github.com/AaravArora3835/VulnForge)
 
 ---
 
-### 🔐 **SecureScholar — Cyber Safety Platform**
+### 🔐 SecureScholar — Cyber Safety Platform
 
 ```bash
-> initializing SecureScholar...
-> modules: "passwords | phishing | digital_hygiene"
-> status: active_development
+project: SecureScholar
+modules: "passwords | phishing | digital_hygiene"
+status: active_development
 ```
 
 🔗 [https://github.com/AaravArora3835/SecureScholar-Platform](https://github.com/AaravArora3835/SecureScholar-Platform)
 
 ---
 
-## 🧪 Terminal Demo
+## 🧪 Live Terminal Demo
 
 ```bash
 $ ssh aarav@github
@@ -90,25 +90,25 @@ $ ls
 VulnForge/  SecureScholar-Platform/  Google-Cybersecurity-Certificate/  Cybersecurity-Portfolio-Hub/
 
 $ cat mission.txt
-[+] Build deeper security understanding
-[+] Strengthen Linux fundamentals
-[+] Reproduce real-world CVEs responsibly
-[+] Complete Google Cybersecurity Certificate
-[+] Keep creating, learning, improving
+- Build strong Linux fundamentals
+- Reproduce real-world CVEs responsibly
+- Complete Google Cybersecurity Certificate
+- Create evidence-based projects
+- Keep improving every day
 ```
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (clean + readable)
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AaravArora3835&show_icons=true&theme=chartreuse-dark&hide_border=true&border_radius=6" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AaravArora3835&theme=chartreuse-dark&hide_border=true&border_radius=6" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AaravArora3835&show_icons=true&theme=merko&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AaravArora3835&theme=merko&hide_border=true" />
 </p>
 
 ---
 
-## 📡 Activity Graph
+## 📡 Activity Graph (matrix theme)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AaravArora3835&theme=matrix" />
@@ -116,11 +116,12 @@ $ cat mission.txt
 
 ---
 
+<!-- CLEANER MATRIX FOOTER -->
+
 <p align="center">
-  <img src="https://i.imgur.com/v9bUq8j.gif" width="60%" alt="matrix rain loop">
+  <img src="https://media.tenor.com/4kLrWv1lH24AAAAd/matrix-code.gif" width="70%" alt="matrix">
 </p>
 
 <p align="center">
   <code>$ exit 0   # thanks for visiting</code>
 </p>
-```
