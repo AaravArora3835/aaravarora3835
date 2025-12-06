@@ -142,9 +142,7 @@ Complete documentation of certification journey. Every lab, command, and lesson 
 </td>
 <td width="50%">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,6,11,20&height=250&section=header&text=ROADMAP%202025-2026&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=45&desc=3%20Certifications%20•%20Professional%20Portfolio%20•%20Internship%20Ready&descAlignY=65&descAlign=50&descSize=14" width="100%"/>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 </td>
 </tr>
@@ -156,9 +154,7 @@ Complete documentation of certification journey. Every lab, command, and lesson 
 <tr>
 <td width="50%">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=250&section=header&text=5%20HOURS%20/%20WEEK&fontSize=40&fontColor=00ff00&animation=twinkling&fontAlignY=35&desc=Course%20Modules%20→%20Labs%20→%20Projects%20→%20Documentation%20→%20Repeat&descAlignY=55&descAlign=50&descSize=13&stroke=00ff00&strokeWidth=2" width="100%"/>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%"/>
 
 </td>
 <td width="50%">
