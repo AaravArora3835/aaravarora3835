@@ -130,26 +130,9 @@ Complete documentation of certification journey. Every lab, command, and lesson 
   <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,python,bash,mysql,postgresql,git,github,react,vscode,vim&theme=dark&perline=12" />
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="filter: hue-rotate(90deg);">
-</p>
-
 ---
 
 ## Certification Timeline
-
-<div align="center">
-
-```mermaid
-gantt
-    title Cybersecurity Certification Roadmap
-    dateFormat  YYYY-MM-DD
-    section Certifications
-    Google Cybersecurity    :active, google, 2025-10-01, 2025-12-31
-    ISC² CC                 :isc2, 2026-01-01, 2026-02-28
-    CompTIA Security+       :sec, 2026-03-01, 2026-05-31
-    Internship Ready        :crit, intern, 2026-06-01, 2026-08-31
-```
 
 | Certification | Progress | Target Date | Evidence |
 |--------------|----------|-------------|----------|
@@ -158,8 +141,6 @@ gantt
 | **CompTIA Security+** | ![0%](https://progress-bar.dev/0/?scale=100&width=200&color=1e90ff&suffix=%) | May 2026 | VulnForge labs |
 
 </div>
-
----
 
 ## Learning Approach
 
@@ -196,10 +177,13 @@ Focus on real vulnerabilities, actual commands, working exploits in controlled e
 
 ## GitHub Analytics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AaravArora3835&theme=radical&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=C9D1D9" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaravArora3835&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=C9D1D9&langs_count=8" />
-</p>
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=AaravArora3835&theme=dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AaravArora3835&theme=dark&hide_border=false&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakNum=00ff00&sideNums=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=ffffff)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AaravArora3835&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00ff00&text_color=00ff00)
+
+</div>
 
 ---
 
