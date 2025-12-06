@@ -3,11 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=45&duration=2000&pause=1000&color=00FF41&background=0C0C0C&center=true&vCenter=true&width=1000&height=100&lines=root%40kali%3A~%23+whoami;AARAV+ARORA;root%40kali%3A~%23+cat+mission.txt;CYBERSECURITY+RESEARCHER" />
 </p>
 
-<!-- ASCII Separator -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="filter: hue-rotate(90deg);">
-</p>
-
 <!-- Hacker Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Cybersecurity+Student+%7C+High+School+Sophomore;CVE+Research+•+Linux+Security+•+Vulnerability+Analysis;Google+Certified+%7C+ISC²+Track+%7C+Security%2B+Prep;Building+Portfolio+for+Aug+2026+Internships">
@@ -134,15 +129,35 @@ Complete documentation of certification journey. Every lab, command, and lesson 
 
 ## Certification Timeline
 
+<table>
+<tr>
+<td width="50%">
+
 | Certification | Progress | Target Date | Evidence |
 |--------------|----------|-------------|----------|
 | **Google Cybersecurity Professional** | ![75%](https://progress-bar.dev/75/?scale=100&width=200&color=00ff00&suffix=%) | Dec 2025 | [Portfolio Hub](#) |
 | **ISC² Certified in Cybersecurity** | ![0%](https://progress-bar.dev/0/?scale=100&width=200&color=yellow&suffix=%) | Feb 2026 | Prep in progress |
 | **CompTIA Security+** | ![0%](https://progress-bar.dev/0/?scale=100&width=200&color=1e90ff&suffix=%) | May 2026 | VulnForge labs |
 
-</div>
+</td>
+<td width="50%">
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ## Learning Approach
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+
+</td>
+<td width="50%">
 
 **Evidence-Based Portfolio Development**  
 Every skill claim backed by documented labs, screenshots, and detailed command outputs. Professional presentation following industry standards.
@@ -152,6 +167,10 @@ Every skill claim backed by documented labs, screenshots, and detailed command o
 
 **Practical Over Theory**  
 Focus on real vulnerabilities, actual commands, working exploits in controlled environments. Learning by doing, not just reading.
+
+</td>
+</tr>
+</table>
 
 ---
 
