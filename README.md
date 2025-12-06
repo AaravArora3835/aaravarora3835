@@ -1,90 +1,78 @@
-<!-- Animated Cybersecurity Banner -->
+<!-- Kali Linux Terminal Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=AARAV%20ARORA&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=CYBERSECURITY%20PORTFOLIO%20•%20VULNERABILITY%20RESEARCH%20•%20SECURE%20DEVELOPMENT&descAlignY=51&descAlign=50&descSize=16" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=45&duration=2000&pause=1000&color=00FF41&background=0C0C0C&center=true&vCenter=true&width=1000&height=100&lines=root%40kali%3A~%23+whoami;AARAV+ARORA;root%40kali%3A~%23+cat+mission.txt;CYBERSECURITY+RESEARCHER" />
+</p>
+
+<!-- ASCII Separator -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
 <!-- Hacker Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=High+School+Sophomore+%7C+Cybersecurity+Track;Google+Cybersecurity+Certificate+In+Progress;CVE+Research+•+Linux+•+SQL+•+Python+•+Bash;Vulnerability+Analysis+%26+Secure+Development;Preparing+for+Security+Internships+2026">
-</p>
-
-<!-- Matrix Rain GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWhtZWEzMWJ1OWJjeXVmcDJqMmdubnV4bGE3YTZ5MWpnbDdpajd0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Cybersecurity+Student+%7C+High+School+Sophomore;CVE+Research+•+Linux+Security+•+Vulnerability+Analysis;Google+Certified+%7C+ISC²+Track+%7C+Security%2B+Prep;Building+Portfolio+for+Aug+2026+Internships">
 </p>
 
 <!-- Project Badges -->
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/🛡️_VulnForge-CVE_Research_Lab-00FF00?style=for-the-badge"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/🔐_SecureScholar-Education_Platform-00FF00?style=for-the-badge"/></a>
-  <img src="https://img.shields.io/badge/📜_Certifications-In_Progress-FFD700?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🎯_Target-Aug_2026_Internships-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VulnForge-CVE_Lab-00FF00?style=for-the-badge&logo=hackaday&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SecureScholar-Education-00FF00?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-Active-FFD700?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Target-Aug_2026-FF6B6B?style=for-the-badge&logo=target&logoColor=white"/>
 </p>
 
 ---
 
-## 👨‍💻 $ whoami
+## whoami — System Info
 
 ```bash
-┌──(aarav㉿kali)-[~/portfolio]
-└─$ cat profile.txt
+╭─root@kali-aarav ~
+╰─$ cat /etc/profile
 
-ROLE: Cybersecurity Student (High School Sophomore)
-FOCUS: Vulnerability Research | Secure Development | Linux Security
-STATUS: Building evidence-based portfolio (Oct 2025 → Aug 2026)
-CERTIFICATIONS: Google Cyber (75% done) → ISC² CC → Security+
-LAB_ENV: Kali Linux | VirtualBox | Home Security Lab
+USER: aarav
+ROLE: cybersecurity_student
+STATUS: active_learning
+FOCUS: [ "CVE_research", "linux_security", "secure_development" ]
+CERTIFICATIONS: {
+  "Google Cybersecurity": "75% complete",
+  "ISC² CC": "planned_jan_2026",
+  "Security+": "planned_may_2026"
+}
+LAB_ENVIRONMENT: [ "Kali_Linux", "VirtualBox", "DVWA", "TryHackMe" ]
+WEEKLY_COMMITMENT: "5_hours_during_school"
+TARGET_ROLE: "security_internship_2026"
+
+╰─$ exit
 ```
-
-<div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60%"/>
-</div>
-
-**Current Mission:**
-- 🎓 Completing **Google Cybersecurity Professional Certificate** (Dec 2025)
-- 🔬 Building **VulnForge** - CVE reproduction laboratory
-- 📚 Documenting every lab, every command, every lesson learned
-- 🚀 Targeting security internships by August 2026
 
 ---
 
-## 🎯 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🛡️ VulnForge
-**CVE Reproduction Lab**
+### VulnForge — CVE Reproduction Lab
 
-Structured environment for analyzing real-world vulnerabilities. SQL Injection, XSS, authentication bypasses - documented with CVSS scoring and mitigations.
+Structured environment for analyzing real-world vulnerabilities. Reproducing SQL Injection, XSS, and authentication bypasses with CVSS scoring and detailed mitigations.
 
-**Tech:** Python automation, Kali Linux, DVWA
-**Skills:** Vulnerability analysis, ethical hacking, technical documentation
+**Stack:** Python automation, Kali Linux, DVWA, Bash  
+**Focus:** Vulnerability analysis, ethical hacking, technical documentation
 
-</td>
-<td width="50%">
-
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%"/>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
+[View Repository →](#)
 
 </td>
 <td width="50%">
 
-### 🔐 SecureScholar
-**Cybersecurity Education Platform**
+### SecureScholar — Education Platform
 
-Interactive web platform teaching password security, phishing awareness, and digital hygiene. Built with React for students and educators.
+Interactive web application teaching cybersecurity fundamentals. Password security, phishing awareness, and digital hygiene modules with React frontend.
 
-**Tech:** React, interactive simulations, NIST guidelines
-**Skills:** Web development, secure coding, UX design
+**Stack:** React, JavaScript, NIST guidelines  
+**Focus:** Web security, secure coding practices, educational design
+
+[View Repository →](#)
 
 </td>
 </tr>
@@ -92,18 +80,19 @@ Interactive web platform teaching password security, phishing awareness, and dig
 <tr>
 <td width="50%">
 
-### 📚 Portfolio Hub
-**Documented Learning Journey**
+### Cybersecurity Portfolio Hub
 
-Every lab, every note, every certification step - organized for recruiters. Linux permissions, SQL queries, network analysis with tcpdump, weekly reflections.
+Complete documentation of certification journey. Every lab, command, and lesson learned organized for recruiters. Linux permissions, SQL queries, network analysis.
 
-**Tech:** Markdown, Git, structured documentation
-**Skills:** Technical writing, project management
+**Stack:** Markdown, Git, structured documentation  
+**Focus:** Technical writing, project management, evidence-based learning
+
+[View Repository →](#)
 
 </td>
 <td width="50%">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </td>
 </tr>
@@ -111,150 +100,121 @@ Every lab, every note, every certification step - organized for recruiters. Linu
 
 ---
 
-## 🛠️ Terminal Skills
+## Technical Arsenal
 
 ```bash
-┌──(aarav㉿kali)-[~/skills]
-└─$ ls -la
+╭─root@kali-aarav ~/skills
+╰─$ tree -L 2
 
-drwxr-xr-x  operating_systems/
-    ├── Linux (Ubuntu, Kali, command-line mastery)
-    ├── Bash scripting & automation
-    └── VirtualBox lab environments
-
-drwxr-xr-x  security_tools/
-    ├── CVE analysis & vulnerability research
-    ├── SQL injection testing & mitigation
-    ├── Network analysis (tcpdump, Wireshark)
-    └── Log analysis & incident investigation
-
-drwxr-xr-x  development/
-    ├── Python (automation, security scripts)
-    ├── SQL (queries, injection prevention)
-    ├── React (web security applications)
-    └── Git/GitHub (version control, portfolio)
+.
+├── operating_systems/
+│   ├── linux_administration (Ubuntu, Kali, Debian)
+│   ├── bash_scripting_automation
+│   ├── file_permissions_management
+│   └── virtualization (VirtualBox, isolated_labs)
+│
+├── security_tools/
+│   ├── vulnerability_research (CVE_analysis, CVSS_scoring)
+│   ├── sql_injection (testing, mitigation, prevention)
+│   ├── network_analysis (tcpdump, Wireshark, packet_inspection)
+│   └── log_analysis (security_incidents, threat_detection)
+│
+└── development/
+    ├── python (automation, security_scripts, data_processing)
+    ├── sql (queries, injection_prevention, secure_db_design)
+    ├── react (web_security_apps, frontend_development)
+    └── version_control (Git, GitHub, portfolio_management)
 ```
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,python,bash,sql,git,react,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,python,bash,mysql,postgresql,git,github,react,vscode,vim&theme=dark&perline=12" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
 ---
 
-## 📜 Certification Roadmap
+## Certification Timeline
 
 <div align="center">
 
-| Certification | Progress | Target | Evidence |
-|--------------|----------|--------|----------|
-| 🟢 **Google Cybersecurity Professional** | ![75%](https://progress-bar.dev/75/?title=progress&width=200&color=00ff00) | Dec 2025 | [Portfolio Hub](#) |
-| 🟡 **ISC² Certified in Cybersecurity (CC)** | ![0%](https://progress-bar.dev/0/?title=planned&width=200&color=yellow) | Jan 2026 | Prep in progress |
-| 🔵 **CompTIA Security+** | ![0%](https://progress-bar.dev/0/?title=planned&width=200&color=blue) | May 2026 | VulnForge integration |
+```mermaid
+gantt
+    title Cybersecurity Certification Roadmap
+    dateFormat  YYYY-MM-DD
+    section Certifications
+    Google Cybersecurity    :active, google, 2025-10-01, 2025-12-31
+    ISC² CC                 :isc2, 2026-01-01, 2026-02-28
+    CompTIA Security+       :sec, 2026-03-01, 2026-05-31
+    Internship Ready        :crit, intern, 2026-06-01, 2026-08-31
+```
+
+| Certification | Progress | Target Date | Evidence |
+|--------------|----------|-------------|----------|
+| **Google Cybersecurity Professional** | ![75%](https://progress-bar.dev/75/?scale=100&width=200&color=00ff00&suffix=%) | Dec 2025 | [Portfolio Hub](#) |
+| **ISC² Certified in Cybersecurity** | ![0%](https://progress-bar.dev/0/?scale=100&width=200&color=yellow&suffix=%) | Feb 2026 | Prep in progress |
+| **CompTIA Security+** | ![0%](https://progress-bar.dev/0/?scale=100&width=200&color=1e90ff&suffix=%) | May 2026 | VulnForge labs |
 
 </div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="60%"/>
-</p>
+---
+
+## Learning Approach
+
+**Evidence-Based Portfolio Development**  
+Every skill claim backed by documented labs, screenshots, and detailed command outputs. Professional presentation following industry standards.
+
+**Structured Weekly Sprints**  
+5-hour weekly commitment with clear deliverables: course modules, hands-on labs, project contributions, and reflective documentation.
+
+**Practical Over Theory**  
+Focus on real vulnerabilities, actual commands, working exploits in controlled environments. Learning by doing, not just reading.
 
 ---
 
-## 📊 Activity Log
-
-```bash
-┌──(aarav㉿kali)-[~/portfolio]
-└─$ tail -f achievements.log
-
-[2025-12-03 14:23:45] VulnForge: Added source_url tracking field
-[2025-12-03 10:15:32] Google Cert: Course 4 Module 1 complete - Linux basics
-[2025-12-02 18:45:19] SecureScholar: Enhanced password strength UI
-[2025-12-01 16:30:08] Portfolio: Week 04 labs organized and documented
-[2025-11-30 20:12:54] VulnForge: Initial CVE case structure deployed
-[2025-11-28 15:40:27] Lab: tcpdump packet capture analysis complete
-[2025-11-27 19:25:13] Security+: Started study materials review
-[2025-11-26 21:05:46] Linux Lab: File permissions and ownership mastery
-
-└─$ echo "Building security skills one commit at a time..."
-Building security skills one commit at a time...
-```
-
----
-
-## 🎓 Learning Philosophy
-
-<table>
-<tr>
-<td width="50%">
-
-**Evidence-Based Development**
-- Every skill backed by documented labs
-- Screenshots, commands, detailed notes
-- GitHub portfolio = professional proof
-
-**Structured Consistency**
-- 5 hours/week during school term
-- Weekly sprints with clear deliverables
-- Reflect, document, improve, repeat
-
-</td>
-<td width="50%">
-
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100%"/>
-
-</td>
-</tr>
-</table>
-
----
-
-## 🔗 Connect
+## Connect
 
 <p align="center">
-  <a href="https://github.com/AaravArora3835"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:aaravarora3835@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/AaravArora3835">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:aaravarora3835@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
   <img src="https://img.shields.io/badge/Status-Open_to_Mentorship-00FF00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Available-Aug_2026-FFD700?style=for-the-badge"/>
 </p>
 
 <div align="center">
-  
-**Seeking:** Security mentorship • Student collaboration • Internship opportunities (2026)
 
-**Interests:** CVE research • Linux security • Open-source security tools • Cybersecurity education
+**Seeking:** Security mentorship · Student collaboration · Internship opportunities (Aug 2026)
 
 </div>
 
 ---
 
-## 📈 GitHub Metrics
+## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AaravArora3835&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AaravArora3835&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=C9D1D9&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AaravArora3835&theme=radical&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=C9D1D9" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AaravArora3835&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=AaravArora3835&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AaravArora3835&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AaravArora3835&theme=radical" width="100%"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AaravArora3835&color=00ff00&style=for-the-badge&label=PROFILE+VIEWS"/>
+  <code>$ echo "Building security skills one commit at a time"</code>
 </p>
 
 <p align="center">
-  <code>💚 Building security skills one commit at a time | Open to mentorship & collaboration</code>
-</p>
-
-<p align="center">
-  <sub>Last updated: December 2025 | Portfolio actively maintained throughout certification journey</sub>
+  <sub>Last updated: December 2025 | Portfolio actively maintained</sub>
 </p>
