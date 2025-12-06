@@ -1,27 +1,17 @@
-<!-- Matrix Banner -->
+<!-- Animated Cybersecurity Banner -->
 <p align="center">
-  <img src="https://media.tenor.com/4kLrWv1lH24AAAAd/matrix-code.gif" width="100%" alt="matrix">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=CYBERSECURITY%20PORTFOLIO&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Vulnerability%20Research%20•%20Secure%20Development%20•%20Security%20Engineering&descAlignY=55&descAlign=50" width="100%"/>
 </p>
-
-<!-- ASCII NAME -->
-<pre align="center">
- █████╗  █████╗ ██████╗  █████╗ ██╗   ██╗
-██╔══██╗██╔══██╗██╔══██╗██╔══██╗╚██╗ ██╔╝
-███████║███████║██████╔╝███████║ ╚████╔╝ 
-██╔══██║██╔══██║██╔══██╗██╔══██║  ╚██╔╝  
-██║  ██║██║  ██║██║  ██║██║  ██║   ██║   
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   
-</pre>
 
 <h2 align="center">Cybersecurity Student | Vulnerability Research & Secure Development</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00ff00&center=true&vCenter=true&width=650&lines=High+School+Sophomore+%7C+Cybersecurity+Track;Building+CVE+Research+Portfolio;Google+Certified+in+Cybersecurity;Linux+%7C+SQL+%7C+Python+%7C+Bash;Vulnerability+Analysis+%26+Secure+Coding">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=High+School+Sophomore+%7C+Cybersecurity+Track;Building+CVE+Research+Portfolio;Google+Cybersecurity+Certificate+In+Progress;Linux+•+SQL+•+Python+•+Bash+•+Networking;Vulnerability+Analysis+%26+Secure+Development;Preparing+for+Security+Internships+2026">
 </p>
 
 <p align="center">
-  <a href="https://github.com/AaravArora3835/VulnForge"><img src="https://img.shields.io/badge/VulnForge-CVE_Lab-00FF00?style=for-the-badge&logo=security&logoColor=white"/></a>
-  <a href="https://github.com/AaravArora3835/SecureScholar-Platform"><img src="https://img.shields.io/badge/SecureScholar-Education_Platform-00FF00?style=for-the-badge&logo=academia&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/VulnForge-CVE_Lab-00FF00?style=for-the-badge&logo=security&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/SecureScholar-Education_Platform-00FF00?style=for-the-badge&logo=academia&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Certifications-In_Progress-FFD700?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
@@ -47,7 +37,7 @@ High school sophomore on a structured cybersecurity roadmap (Oct 2025 → Aug 20
 
 ## 🎯 Featured Projects
 
-### 🛡️ [VulnForge](https://github.com/AaravArora3835/VulnForge) — CVE Reproduction Laboratory
+### 🛡️ [VulnForge](#) — CVE Reproduction Laboratory
 
 A structured environment for analyzing and reproducing real-world Common Vulnerabilities and Exposures (CVEs). Demonstrates vulnerability research methodology and security analysis skills.
 
@@ -73,7 +63,7 @@ VulnForge/
 
 ---
 
-### 🔐 [SecureScholar](https://github.com/AaravArora3835/SecureScholar-Platform) — Cybersecurity Education Platform
+### 🔐 [SecureScholar](#) — Cybersecurity Education Platform
 
 An interactive web platform teaching cybersecurity fundamentals to students and educators. Built with React, focusing on password security, phishing awareness, and digital hygiene.
 
@@ -96,7 +86,7 @@ SecureScholar/
 
 ---
 
-### 📚 [Cybersecurity Portfolio Hub](https://github.com/AaravArora3835/Cybersecurity-Portfolio-Hub)
+### 📚 [Cybersecurity Portfolio Hub](#)
 
 Comprehensive documentation of my cybersecurity learning journey, including weekly labs, course notes, and certification progress. Organized for easy navigation by recruiters and admissions officers.
 
@@ -144,7 +134,7 @@ Comprehensive documentation of my cybersecurity learning journey, including week
 
 | Certification | Status | Target Date | Evidence |
 |--------------|--------|-------------|----------|
-| **Google Cybersecurity Professional** | 🟡 In Progress (75% complete) | Dec 2025 | [Portfolio Hub](https://github.com/AaravArora3835/Cybersecurity-Portfolio-Hub) |
+| **Google Cybersecurity Professional** | 🟡 In Progress (75% complete) | Dec 2025 | [Portfolio Hub](#) |
 | **ISC² Certified in Cybersecurity (CC)** | 📅 Planned | Jan 2026 | Prep materials in development |
 | **CompTIA Security+** | 📅 Planned | May 2026 | Integrated with VulnForge research |
 
@@ -153,7 +143,7 @@ Comprehensive documentation of my cybersecurity learning journey, including week
 ## 📈 Recent Activity
 
 ```bash
-$ tail -f /var/log/aarav/achievements.log
+$ tail -f /var/log/portfolio/achievements.log
 
 [2025-12-03] VulnForge: Added source_url field for CVE tracking
 [2025-12-03] Google Cert: Completed Course 4 Module 1 - Linux basics
@@ -193,7 +183,7 @@ I'm building my portfolio with feedback from the cybersecurity community and pre
 - Open-source security projects welcoming contributors
 
 <p align="center">
-  <a href="https://github.com/AaravArora3835"><img src="https://img.shields.io/badge/GitHub-Follow-00FF00?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-Follow-00FF00?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-00FF00?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
@@ -202,12 +192,12 @@ I'm building my portfolio with feedback from the cybersecurity community and pre
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AaravArora3835&show_icons=true&theme=merko&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AaravArora3835&theme=merko&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=merko&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=merko&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AaravArora3835&theme=matrix&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=matrix&hide_border=true" />
 </p>
 
 ---
