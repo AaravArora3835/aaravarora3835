@@ -211,5 +211,5 @@ Focus on real vulnerabilities, actual commands, working exploits in controlled e
 </p>
 
 <p align="center">
-  <sub>Last updated: December 2025 | Portfolio actively maintained</sub>
+  <sub>Portfolio actively maintained</sub>
 </p>
