@@ -35,6 +35,14 @@ Repo: https://github.com/AaravArora3835/Cybersecurity-HomeLab
 - Google Cybersecurity Certificate
 ```
 
+## Experience
+
+```bash
+- CyberPatriot competitor — National Youth Cyber Defense Competition
+- Worked specifically with Linux using distros such as Ubuntu, Mint21, and Fedora
+- Advanced to Semifinals with team (Linux, Windows, and Cisco security challenges)
+```
+
 ## Foundations & Tools
 ```bash
 Linux (Kali, Ubuntu) | Windows
