@@ -1,4 +1,4 @@
-# aarav@github:~$ whoami
+# aaravarora3835@github:~$ whoami
 ```bash
 USER="Aarav Arora"
 ROLE="High School Sophomore"
